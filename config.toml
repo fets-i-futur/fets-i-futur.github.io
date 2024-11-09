@@ -1,9 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://fets-i-futur.github.io"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ca"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-product-launch"
