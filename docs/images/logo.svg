@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.35"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     width="100%"
+     height="100%"
+     fill="#f5f5f5"
+     id="rect2" />
+  <!-- Cercle de fons per donar un toc modern -->
+  <circle
+     cx="100"
+     cy="100"
+     r="80"
+     fill="#007bff"
+     id="circle4" />
+  <!-- Forma estilitzada de votació -->
+  <rect
+     x="70"
+     y="50"
+     width="60"
+     height="70"
+     fill="#ffffff"
+     rx="5"
+     ry="5"
+     id="rect6" />
+  <path
+     d="M85 65 L115 65 L100 45 Z"
+     fill="#007bff"
+     id="path8" />
+  <text
+     x="100"
+     y="136.87001"
+     text-anchor="middle"
+     font-size="18px"
+     fill="#ffffff"
+     font-family="Arial, sans-serif"
+     id="text10">Fets i Futur</text>
+  <text
+     x="100.73138"
+     y="152.12599"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#ffffff"
+     font-family="Arial, sans-serif"
+     id="text12">José Miguel Giménez</text>
+</svg>
