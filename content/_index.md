@@ -9,7 +9,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "El programa"
-teaser_image: "images/teaser.jpg"
+teaser_image: "teaser.jpg"
 ---
 
 # El futur és avui
@@ -35,9 +35,10 @@ Som hereus d'aquests èxits i proposem continuar en aquesta línia.
 
 You guessed it! We put our money where our mouth is. This is what we accomplished so far.
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+{{< figure src="prototype.jpg" 
+           title="Figura 2"
+		   caption="Fent potingues verinoses" >}}
 
-Check out this sweet preview. Impressed much, are you?
 
 ---
 Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.

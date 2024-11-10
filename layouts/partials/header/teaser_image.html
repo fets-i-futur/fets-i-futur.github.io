@@ -1,9 +1,15 @@
 <div class="mt-12 flex-shrink-0 hidden md:block mx-auto" id="teaser-image">
   <div class="mx-auto">
     <div class="flex flex-col p-2">
-      <img
-        src="{{ . }}"
-      />
+    <picture>
+      <source media="(max-width:640px)"
+   	      srcset="{{(.Resize "640x").RelPermalink}}">
+      <source media="(max-width:1024px)"
+	      srcset="{{(.Resize "1024x").RelPermalink}}">
+      <img src="{{ .RelPermalink }}" />
+    </picture>
     </div>
   </div>
 </div>
+
+
