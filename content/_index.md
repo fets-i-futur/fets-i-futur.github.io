@@ -4,8 +4,8 @@ header_tagline_paragraph: |
    Per a que el demà d'UPC Manresa sigui millor que l'avui
    També som joves però no tant guapos
 header_button_cta:
-  url: "#contact-form"
-  title: "Dona'ns la teva opinió"
+  url: https://t.me/+eeSpWcQ3NpUwYWI8
+  title: "Segueix-nos a Telegram!"
 header_button_more:
   url: "#the-future---today"
   title: "El programa"
