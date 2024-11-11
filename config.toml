@@ -4,6 +4,7 @@ baseURL = "https://fets-i-futur.github.io"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 
 defaultContentLanguage = "ca"
+googleAnalytics = "G-9E54KXXEJV"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-product-launch"
