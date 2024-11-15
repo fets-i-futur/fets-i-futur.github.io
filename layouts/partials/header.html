@@ -14,7 +14,10 @@
           {{ with .Params.header_button_cta }}
             {{- partial "header/button_cta.html" . -}}
           {{ end }}
-          {{ with .Params.header_button_more }}
+          {{ with .Params.header_button_one }}
+            {{- partial "header/button_more.html" . -}}
+          {{ end }}
+          {{ with .Params.header_button_two }}
             {{- partial "header/button_more.html" . -}}
           {{ end }}
         </div>
