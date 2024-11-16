@@ -43,7 +43,7 @@ Tot això passa gràcies a **la feina de les persones**. Les que tenen cura dels
 - Ens situa com **centre d'un projecte** que s'estén més enllà de la Universitat i pivota sobre la tecnologia i el coneixement.
 - Ens consolida com **actor important** al territori i dins la mateixa Universitat.
 
-El projecte **neix a l'Escola en la legislatura que tanquem** i compta, des del principi, amb el **suport monolític** del teixit empresarial.
+El projecte **neix a l'Escola en la legislatura que tanquem** i compta, des del principi, amb el **suport del teixit empresarial**.
 
 ---
 
@@ -99,6 +99,7 @@ Aquestes són algunes accions concretes que impulsarem. Es deriven de la visió 
 
 * Continuar madurant la dinàmica de treball del **Consell Assessor** en la seva doble funció d'assessor i d'impulsor d'iniciatives.
 * Consolidar el [**Museu «Valentí Masachs»**](https://geomuseu.upc.edu/) i el [**TechLab Manresa**](https://epsem.upc.edu/ca/escola/techlab_manresa) com a instruments tant de **difusió de la ciència i la tecnologia** a la societat com de promoció dels nostres estudis entre el jovent.
+
 
 * En sintonia amb els [ODS](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/ "Objectius de Desenvolupament Sostenible"), **millorar els aspectes mediambientals que es deriven de la nostra activitat**:  transport, gestió dels equipaments i l'energia, activitat docent, etc.
 
