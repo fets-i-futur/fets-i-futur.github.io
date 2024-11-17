@@ -17,7 +17,7 @@ description: >
    Candidatura de Giménez a la direcció d'UPC Manresa.
 ---
 
-UPC Manresa viu la **millor època del seus 80 anys d'història**. Un **èxit col·lectiu** del que ens en sentim orgullosos. I això passa malgrat les dificultats de plantilla que tenim. La **comunitat d'UPC Manresa** és forta i madura.
+UPC Manresa viu la **millor època del seus 80 anys d'història**. Un **èxit col·lectiu** del que ens en sentim orgullosos. És la constatació de que la **comunitat d'UPC Manresa** és forta i madura.
 
 A la darrera legislatura, entre tots, **hem assolit èxits importants**. Repassem-ne alguns.
 
