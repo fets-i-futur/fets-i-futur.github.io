@@ -126,19 +126,19 @@ Professor Agregat. Doctor en Geologia. Ha sigut professor a la UB, a la UAB a UP
 {{< fitxa foto="ty-iagen.webp" 
           nom="Teresa Yubero" 
 		  futur="https://futur.upc.edu/MariaTeresaYuberoDeMateo" >}}
-Professora Lectora. Doctora en Enginyeria del Terreny. Ha sigut professora a l'ETSECCPB, project manager i senior researcher al CIMNE, membre del comitè científic assessor d'alarma a les obres les línies L9 i L10 de Metro Barcelona. 
+Professora Lectora. Doctora en Enginyeria del Terreny. Ha sigut professora a l'ETSECCPB, project manager i senior researcher al CIMNE, membre del comitè científic assessor d'alarma a les obres les línies L9 i L10 de Metro Barcelona. Quan te temps fa running i muntanya.
 {{< /fitxa >}}
 
 {{< fitxa foto="mb-aigen.webp" 
           nom="Marc Bascompta" 
 		  futur="https://futur.upc.edu/MarcBascomptaMassanes" >}}
-Professor Agregat. Doctor Eng. de Mines. Ha sigut sotsdirector del departament EMIT i director del centre de recerca Smart Sustainable Resources (SSR-UPC). Fa recerca en la mineria sostenible i els impactes que genera l’obtenció de georecursos.
+Professor Agregat. Doctor Eng. de Mines. Ha sigut sotsdirector del departament EMIT i director del centre de recerca Smart Sustainable Resources (SSR-UPC). Fa recerca en la mineria sostenible i els impactes que genera l’obtenció de georecursos. Quan no llegeix, el podeu trobar jugant als escacs o al pàdel.
 {{< /fitxa >}}
 
 {{< fitxa foto="mv-aigen.webp" 
           nom="Marc Vallbé" 
 		  futur="https://futur.upc.edu/MarcVallbeMumbru" >}}
-Professor Lector. Doctor en Astrofísica. Ha sigut recercaire a l'Institut d'Astrofísica de Canàries. Actualment, fa recerca en gestió dels recursos naturals i és sotsdirector de Relacions Internacionals d'UPC Manresa.
+Professor Lector. Doctor en Astrofísica. Ha sigut recercaire a l'Institut d'Astrofísica de Canàries. Actualment, fa recerca en gestió dels recursos naturals i és sotsdirector de Relacions Internacionals d'UPC Manresa. Perd les nits fent observació astronòmica, toca la guitarra i es desestressa fent triatló.
 {{< /fitxa >}}
 
 {{< fitxa foto="sv-iagen.webp" 
