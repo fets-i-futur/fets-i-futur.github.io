@@ -46,7 +46,7 @@
 
   
 
-<link href="https://fets-i-futur.github.io/css/main.d43e213dd5a79a06f83c45bb86e101a335ad3fa236a3ce99ef5d3498044283bd.css" rel="stylesheet" />
+<link href="https://fets-i-futur.github.io/css/main.b2a92ea4790c0674940e56984a401ad04e84c4771afd69082948841968d379c0.css" rel="stylesheet" />
 
   
     
@@ -125,7 +125,7 @@
     <div class="flex flex-col p-2">
     <picture>
       <source media="(max-width:640px)"
-   	      srcset="/fac-iagen2_hu14794698211471449801.webp">
+   	      srcset="/fac-iagen2_hu11710055317278969033.webp">
       <source media="(max-width:1024px)"
 	      srcset="/fac-iagen2_hu8613294423888946792.webp">
       <img src="/fac-iagen2.webp" />
@@ -288,7 +288,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/jm-iagen_hu15518065225382547524.webp"
 	 alt=""
 	 loading="lazy">
@@ -307,7 +307,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/dp-iagen_hu16355817010815087841.webp"
 	 alt=""
 	 loading="lazy">
@@ -326,7 +326,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/ty-iagen_hu4633957620104996086.webp"
 	 alt=""
 	 loading="lazy">
@@ -345,7 +345,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/mb-aigen_hu3842463812407134696.webp"
 	 alt=""
 	 loading="lazy">
@@ -364,7 +364,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/mv-aigen_hu9507060552554908957.webp"
 	 alt=""
 	 loading="lazy">
@@ -383,7 +383,7 @@
 
 <div class="not-prose flex flex-col items-center bg-white border border-gray-200 dark:border-slate-600 rounded-lg shadow md:flex-row  hover:bg-gray-100 dark:bg-slate-700 dark:hover:bg-slate-800 my-2">
   <picture>
-    <img class="object-cover w-70 rounded-lg mt-2 h-70 md:h-auto md:w-48 md:ml-2"
+    <img class="object-cover w-60 rounded-lg mt-2 h-60 md:h-auto md:w-50 md:ml-2"
 	 src="/sv-iagen_hu2981424841524440297.webp"
 	 alt=""
 	 loading="lazy">
@@ -423,5 +423,40 @@ a la direcció d&rsquo;UPC Manresa. 2024</div>
     </div>
   </div>
 </footer>
+
+
+<button id="to-top-button" onclick="goToTop()" title="Al principi !"
+    class="hidden fixed z-50 bottom-5 right-5 md:bottom-10 md:right-10 p-4 border-0 w-14 h-14 rounded-full shadow-md bg-purple-600 hover:bg-purple-700 text-white text-lg font-semibold transition-colors duration-300">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+        <path d="M12 4l8 8h-6v8h-4v-8H4l8-8z" />
+    </svg>
+    <span class="sr-only">Go to top</span>
+</button>
+
+<script>
+    
+    var toTopButton = document.getElementById("to-top-button");
+
+    
+    if (toTopButton) {
+
+        
+        window.onscroll = function() {
+            if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+                toTopButton.classList.remove("hidden");
+            } else {
+                toTopButton.classList.add("hidden");
+            }
+        };
+
+        
+        window.goToTop = function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        };
+    }
+</script>
 </body>
 </html>
