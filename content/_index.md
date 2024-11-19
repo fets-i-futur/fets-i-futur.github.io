@@ -17,7 +17,7 @@ description: >
    Candidatura de Giménez a la direcció d'UPC Manresa.
 ---
 {{< remark gran="si" >}}
-**L'estudiantat, professorat i personal d'administració, serveis i gestió d'UPC Manresa són cridats a elegir el nou director d'UPC Manresa**. La votació serà electrònica i es podrà votar des de qualsevol lloc amb connexió. **L'urna serà oberta per tothom els dies 26, 27 i 28 de novembre**. 
+**L'estudiantat, professorat i personal d'administració, serveis i gestió d'UPC Manresa són cridats a elegir el nou director d'UPC Manresa**. La votació serà electrònica i es podrà votar des de qualsevol lloc amb connexió. **L'urna electrònica serà oberta per tothom els dies 26, 27 i 28 de novembre**. 
 {{< /remark >}}
 
 ---
