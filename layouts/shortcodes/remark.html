@@ -1,3 +1,11 @@
-<div class="leading-tight bg-auto bg-lime-200 dark:bg-lime-800 px-4 py-2 rounded-md">
+{{- if .Get "gran" -}}
+<div class="leading-tight bg-auto bg-lime-200 dark:bg-lime-800
+	    px-4 py-2 rounded-md prose-lg sm:prose-xl">
     {{ .Inner | markdownify }}
 </div>
+{{else}}
+<div class="leading-tight bg-auto bg-lime-200 dark:bg-lime-800
+	    px-4 py-2 rounded-md">
+    {{ .Inner | markdownify }}
+</div>
+{{end}}
